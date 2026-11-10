@@ -1,0 +1,6 @@
+Nunito — pesos Regular (400) e SemiBold (600).
+Fonte: Google Fonts / Nunito Project Authors.
+Origem: https://github.com/google/fonts/tree/main/ofl/nunito
+Arquivo variável de origem: Nunito[wght].ttf
+As instâncias estáticas foram geradas com fontTools.varLib.instancer para compatibilidade com Qt, Matplotlib e ReportLab.
+Licença: SIL Open Font License 1.1, preservada no arquivo Nunito-OFL.txt.
